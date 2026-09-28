@@ -1,0 +1,21 @@
+{
+  "schema_version": "sct-reranker-pair-statistics-v1",
+  "train_file": "train.json",
+  "train_sha256": "b892a4dbf4d5aabf75980042d81b1372505abcb08ade8439235d0f17713fed55",
+  "training_questions": 500,
+  "questions_with_usable_support": 412,
+  "questions_without_usable_support": 88,
+  "raw_question_clause_positive_pairs": 624,
+  "sentence_level_positive_pairs": 2068,
+  "negative_pairs_per_positive": 6,
+  "negative_pairs": 12408,
+  "total_question_clause_pairs": 14476,
+  "sentence_level": true,
+  "negative_sources": [
+    "neighboring clauses",
+    "same-standard dense hard negatives",
+    "random other-standard clauses"
+  ],
+  "seed": 42,
+  "note": "Counts describe the released training-only pair construction. The training script records the realized label counts in training_metadata.json."
+}

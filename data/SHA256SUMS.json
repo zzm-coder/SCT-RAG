@@ -1,0 +1,7 @@
+{
+  "hotpot/hotpotqa_50.json": "d29ec49f32058a9a90498694131dcfbbd40a04fb79091e4691a3a743c21e862e",
+  "../code/3_QA_creation/3_QA_data/indstd_design_qa_clause/README.md": "e664d2964ab36b2c27bdc7f64618d5146bde5ca50a713006e867b28d9f2d8fa8",
+  "../code/3_QA_creation/3_QA_data/indstd_design_qa_clause/dev.json": "bea47bae1cca76d0b1be16672fbb6b80ef184d69d0c91e452511f2cd174df696",
+  "../code/3_QA_creation/3_QA_data/indstd_design_qa_clause/test.json": "05144e7e19bdf7263fe0a7ece82d0c57d44b714c7418cb1ad6723702707d723d",
+  "../code/3_QA_creation/3_QA_data/indstd_design_qa_clause/train.json": "b892a4dbf4d5aabf75980042d81b1372505abcb08ade8439235d0f17713fed55"
+}
